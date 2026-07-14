@@ -14,6 +14,17 @@ The default LLM backend is a local **Ollama** endpoint using `qwen2.5:3b`.
 ## User Authentication
 ![alt text](/pics/rec_7.PNG)
 
+## Chat with Ollam LLM
+![alt text](/pics/rec_4.PNG)
+
+## Memory Orchestration
+![alt text](/pics/rec_6.PNG)
+
+## Chat Deletion
+![alt text](/pics/rec_5.PNG)
+
+
+
 ## What This Project Does
 
 - Cleans and transforms raw Amazon electronics metadata into a searchable format.

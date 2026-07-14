@@ -10,6 +10,10 @@ It combines:
 
 The default LLM backend is a local **Ollama** endpoint using `qwen2.5:3b`.
 
+# Preview
+## User Authentication
+![alt text](/pics/rec_7.PNG)
+
 ## What This Project Does
 
 - Cleans and transforms raw Amazon electronics metadata into a searchable format.

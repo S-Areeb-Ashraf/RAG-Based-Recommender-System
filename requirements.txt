@@ -1,0 +1,26 @@
+pandas>=2.0.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+
+
+chromadb>=0.4.24
+sentence-transformers>=2.5.0
+
+
+langchain>=0.1.13
+langchain-core>=0.1.33
+langgraph>=0.0.30
+
+
+psycopg2-binary>=2.9.9
+langgraph-checkpoint-postgres>=1.0.0 
+
+langchain-openai>=0.1.1   
+langchain-huggingface>=0.0.1
+
+streamlit>=1.35.0
+
+pyarrow>=15.0.0
+
+# 8. Supabase (PostgREST — custom tables, app-side auth)
+supabase>=2.4.0
